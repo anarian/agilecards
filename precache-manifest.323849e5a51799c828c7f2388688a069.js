@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/agilecards/static/css/main.40b28fda.chunk.css"
   },
   {
-    "revision": "88008d8e784d8aefe7de801b61a445a4",
+    "revision": "5e846dfe550c6a7f37cbf4065cbda8bf",
     "url": "/agilecards/index.html"
   }
 ];
