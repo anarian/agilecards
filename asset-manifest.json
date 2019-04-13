@@ -1,13 +1,13 @@
 {
-  "main.css": "/agilecards/static/css/main.e50130ad.chunk.css",
-  "main.js": "/agilecards/static/js/main.d0494c33.chunk.js",
-  "main.js.map": "/agilecards/static/js/main.d0494c33.chunk.js.map",
+  "main.css": "/agilecards/static/css/main.77f5758f.chunk.css",
+  "main.js": "/agilecards/static/js/main.943d0a4b.chunk.js",
+  "main.js.map": "/agilecards/static/js/main.943d0a4b.chunk.js.map",
   "runtime~main.js": "/agilecards/static/js/runtime~main.48fe0543.js",
   "runtime~main.js.map": "/agilecards/static/js/runtime~main.48fe0543.js.map",
-  "static/js/2.a8351ed9.chunk.js": "/agilecards/static/js/2.a8351ed9.chunk.js",
-  "static/js/2.a8351ed9.chunk.js.map": "/agilecards/static/js/2.a8351ed9.chunk.js.map",
+  "static/js/2.ab6f522b.chunk.js": "/agilecards/static/js/2.ab6f522b.chunk.js",
+  "static/js/2.ab6f522b.chunk.js.map": "/agilecards/static/js/2.ab6f522b.chunk.js.map",
   "index.html": "/agilecards/index.html",
-  "precache-manifest.df254d4c49a7a1ac4b696ef992d82fb0.js": "/agilecards/precache-manifest.df254d4c49a7a1ac4b696ef992d82fb0.js",
+  "precache-manifest.5c3d655069af8c489c5f88336cfea025.js": "/agilecards/precache-manifest.5c3d655069af8c489c5f88336cfea025.js",
   "service-worker.js": "/agilecards/service-worker.js",
-  "static/css/main.e50130ad.chunk.css.map": "/agilecards/static/css/main.e50130ad.chunk.css.map"
+  "static/css/main.77f5758f.chunk.css.map": "/agilecards/static/css/main.77f5758f.chunk.css.map"
 }

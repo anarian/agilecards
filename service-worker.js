@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/agilecards/precache-manifest.df254d4c49a7a1ac4b696ef992d82fb0.js"
+  "/agilecards/precache-manifest.5c3d655069af8c489c5f88336cfea025.js"
 );
 
 workbox.clientsClaim();
